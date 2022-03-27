@@ -9,3 +9,12 @@
 .description h1 {
 	color: #32a0a8;
 }
+
+.page-section-title h2 {
+	color: #32a0a8;
+}
+
+.card {
+	margin-bottom: 10px;
+	background-color: #BCED7F;
+}
